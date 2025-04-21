@@ -1,10 +1,26 @@
-## Create a Minimap (Pure JavaScript, NO Plugins Needed)
+# 🗺️ Create a Minimap (Pure JavaScript – No Plugins!)
 
-Learn how to build a complete responsive minimap from scratch using HTML, CSS, and pure JavaScript—no plugins or libraries needed!
+Build a fully responsive **minimap** UI from scratch using just **HTML, CSS, and vanilla JavaScript** — no libraries or external plugins needed!
 
-See the finished build here 👇
-https://minimap-bay.vercel.app/
+---
 
-Inspiration by Photoyoshi
+### 🔍 What You'll Learn
+- DOM manipulation with JavaScript
+- Responsive design techniques
+- Custom UI/UX behavior (scroll tracking, thumbnail preview)
+- Smooth interactions with clean layout logic
 
-Website: (https://photoyoshi.com/landscape/)
+---
+
+### 🚀 Live Demo  
+Check out the finished project here:  
+🔗 [minimap-bay.vercel.app](https://minimap-bay.vercel.app/)
+
+---
+
+### 🎨 Inspiration  
+Inspired by: [Photoyoshi – Landscape Project](https://photoyoshi.com/landscape/)
+
+---
+
+Want to see the full code? You already are in the right branch 👉 `01-minimap`
