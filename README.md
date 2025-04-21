@@ -3,7 +3,7 @@
 Build a fully responsive **minimap** UI from scratch using just **HTML, CSS, and vanilla JavaScript** — no libraries or external plugins needed!
 
 <p align="center">
-  [<img src="assets/screenshot.png" height="auto" />](https://minimap-bay.vercel.app/)
+  <img src="assets/screenshot.png" height="auto" />
 </p>
 
 ---
