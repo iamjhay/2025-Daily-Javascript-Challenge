@@ -2,6 +2,10 @@
 
 Build a fully responsive **minimap** UI from scratch using just **HTML, CSS, and vanilla JavaScript** — no libraries or external plugins needed!
 
+<p align="center">
+  <img src="/assets/screenshots.png" height="600" />
+</p>
+
 ---
 
 ### 🔍 What You'll Learn
